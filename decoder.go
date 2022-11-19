@@ -15,7 +15,7 @@
 //		...
 //
 //		"github.com/goschtalt/goschtalt"
-//		_ "github.com/goschtalt/goschtalt/extensions/decoders/properties"
+//		_ "github.com/goschtalt/properties-decoder"
 //	)
 //
 // See the example for how to use this extension package.

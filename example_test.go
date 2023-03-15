@@ -16,10 +16,10 @@ import (
 
 const filename = `example.properties`
 const text = `# example file
-example.version = 1
-example.colors.0 = red
-example.colors.1 = green
-example.colors.2 = blue`
+Example.Version = 1
+Example.Colors.0 = red
+Example.Colors.1 = green
+Example.Colors.2 = blue`
 
 func getFS() fs.FS {
 	mfs := memfs.New()

@@ -13,7 +13,6 @@ import (
 	_ "github.com/goschtalt/properties-decoder/properties"
 )
 
-const filename = `example.properties`
 const text = `# example file
 Example.Version = 1
 Example.Colors.0 = red

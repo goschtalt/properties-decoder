@@ -1,4 +1,4 @@
-module github.com/goschtalt/properties-decoder/properties
+module github.com/goschtalt/properties-decoder
 
 go 1.18
 

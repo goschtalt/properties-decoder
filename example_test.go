@@ -10,7 +10,7 @@ import (
 	"testing/fstest"
 
 	"github.com/goschtalt/goschtalt"
-	_ "github.com/goschtalt/properties-decoder/properties"
+	_ "github.com/goschtalt/properties-decoder"
 )
 
 const text = `# example file

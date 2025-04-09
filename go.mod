@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/google/go-cmp v0.7.0
 	github.com/goschtalt/goschtalt v0.26.1
-	github.com/magiconair/properties v1.8.9
+	github.com/magiconair/properties v1.8.10
 	github.com/stretchr/testify v1.10.0
 )
 

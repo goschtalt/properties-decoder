@@ -1,12 +1,12 @@
 module github.com/goschtalt/properties-decoder
 
-go 1.18
+go 1.23
 
 require (
 	github.com/google/go-cmp v0.7.0
 	github.com/goschtalt/goschtalt v0.26.1
 	github.com/magiconair/properties v1.8.10
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.0
 )
 
 require (
